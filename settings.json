@@ -1,9 +1,9 @@
 {
   "name": "AFK Bot",
   "bot-account": {
-    "username": "imgonnacream",
-    "password": "",
-    "type": "offline"
+    "username": "SwiftSpeedMC AFK Bot",
+    "password": "AFKBot",
+    "type": "online"
   },
   "server": {
     "ip": "SwiftSpeedMC.aternos.me",
